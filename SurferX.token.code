@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "rDgBV9WrwJ3WwtRWhkekMhDas3muFeKvoS"
+name = "SurferX"
+
+[[ISSUERS.WEBLINKS]]
+url = "https://surferx.io/"
+type = "info"
+title = "Official Website"
+
+[[ISSUERS.WEBLINKS]]
+url = "https://x.com/Surferx_io"
+type = "socialmedia"
+
+[[TOKENS]]
+issuer = "rDgBV9WrwJ3WwtRWhkekMhDas3muFeKvoS"
+currency = "SRFX"
+name = "SurferX"
+desc = "SurferX is an exciting character full of life and is living it. SurferX is mobile gaming, SurferX is NFTs, SurferX is memes, and much much more. SurferX is it's own entity in himself. There is no limit with where SurferX will be next."
+icon = "https://avatars.githubusercontent.com/u/173979634?v=4 (https://avatars.githubusercontent.com/u/173979634?v=4)"
+asset_class = "cryptocurrency"
+
+[[TOKENS.WEBLINKS]]
+url = "https://t.me/surferx_token"
+type = "community"
